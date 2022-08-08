@@ -17,7 +17,7 @@ void main(List<String> args) {
      double resualtradius = double.parse(stdin.readLineSync()!);
      var square1 = Square(side: resualtradius);
      print(square1.area());
-     print("done");
+    
 
    
   }
